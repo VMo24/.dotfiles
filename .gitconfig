@@ -1,0 +1,6 @@
+[user]
+	email = 77967472+VMo24@users.noreply.github.com
+	name = Valentin-Cristian Mosor
+	
+	#fast forward on merge
+    pull = "pull --ff-only"
