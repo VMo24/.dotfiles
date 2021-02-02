@@ -2,5 +2,17 @@
 	email = 77967472+VMo24@users.noreply.github.com
 	name = Valentin-Cristian Mosor
 	
+[alias]
 	#fast forward on merge
     pull = "pull --ff-only"
+	st = status
+	co = checkout
+	br = branch
+	last = log -1 HEAD
+	aa = add --all
+	pu = push --tags
+
+[color]  
+    diff = auto  
+    status = auto  
+    branch = auto 
